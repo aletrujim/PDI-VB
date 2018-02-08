@@ -1,0 +1,17 @@
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\obj\Debug\ProcesaImagenes.Visor.resources
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\obj\Debug\ProcesaImagenes.Resources.resources
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\obj\Debug\ProcesaImagenes.vbproj.GenerateResource.Cache
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\obj\Debug\ProcesaImagenes.xml
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\bin\Debug\ProcesaImagenes.exe.config
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\bin\Debug\ProcesaImagenes.exe
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\bin\Debug\ProcesaImagenes.pdb
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\bin\Debug\ProcesaImagenes.xml
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\bin\Debug\AForge.dll
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\bin\Debug\AForge.Imaging.dll
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\bin\Debug\IEvolution2.dll
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\bin\Debug\AForge.Math.dll
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\bin\Debug\AForge.xml
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\bin\Debug\AForge.Imaging.xml
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\bin\Debug\AForge.Math.xml
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\obj\Debug\ProcesaImagenes.exe
+C:\Users\trujimagd\Documents\Visual Studio 2015\Projects\ProcesaImagenes\ProcesaImagenes\obj\Debug\ProcesaImagenes.pdb
